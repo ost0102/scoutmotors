@@ -456,7 +456,7 @@ section.camp::before{
     content: "";
     position: absolute;
     inset: 0;
-    background-image: url('/assets/images/milkyway.webp');
+    background-image: url('../images/milkyway.webp');
     background-size: cover;
     mix-blend-mode: screen;
     opacity: .5;
@@ -566,7 +566,7 @@ section.camp .camp__inner .camp__video video{
 }
 
 section.dust__cont{
-    background-image: url(/assets/images/dust.png);
+    background-image: url('../images/dust.png');
     position: relative;
     padding-bottom: 40%;
     background-color: #ede9e8;
