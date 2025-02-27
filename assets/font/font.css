@@ -1,0 +1,24 @@
+@font-face {
+    font-family: 'IBM-M';
+    src: url('./IBMPlexMono-Medium.woff2') format('truetype');
+}
+@font-face {
+    font-family: 'IBM-R';
+    src: url('./IBMPlexMono-Regular.woff2') format('truetype');
+}
+@font-face {
+    font-family: 'ScoutSS-B';
+    src: url('./ScoutSansSemiCondV4-Bold_ttf.woff2') format('truetype');
+}
+@font-face {
+    font-family: 'ScoutV-M';
+    src: url('./ScoutSansV4-Medium_ttf.woff2') format('truetype');
+}
+@font-face {
+    font-family: 'ScoutV-R';
+    src: url('./ScoutSansV4-Regular_ttf.woff2') format('truetype');
+}
+@font-face {
+    font-family: 'ScoutV-M';
+    src: url('./ScoutSansWideV4-Medium_ttf.woff2') format('truetype');
+}
