@@ -391,7 +391,7 @@ body.scroll #header .header__inner{
 
 footer{position: relative;z-index: 4;}
 footer .footer__bg{
-    background-image: url('/assets/images/ft_bg.webp');
+    background-image: url('./assets/images/ft_bg.webp');
     background-size: 100% 1150px;
     background-repeat: no-repeat;
     padding: 56px 16px 15px;
