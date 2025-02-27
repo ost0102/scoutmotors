@@ -40,7 +40,7 @@ const $container = $('.sequences__box');
 
 for (let i = 1; i <= 384; i++) {
     const formattedNumber = String(i).padStart(3, '0');
-    $container.append(`<img src="/assets/sequences1/${formattedNumber}.webp" alt="Image ${i}">`);
+    $container.append(`<img src="./assets/sequences1/${formattedNumber}.webp" alt="Image ${i}">`);
 }
 const $images = $container.find('img');
 $images.eq(0).show();
@@ -160,7 +160,7 @@ iconTitleTl.to('.outside',{
 const $container2 = $('.pic__list');
 for (let i = 1; i <= 55; i++) {
     const formattedNumber2 = String(i).padStart(3, '0');
-    $container2.append(`<img src="/assets/sequences2/${formattedNumber2}.webp" alt="Image ${i}">`); // 템플릿 리터럴로 수정
+    $container2.append(`<img src="./assets/sequences2/${formattedNumber2}.webp" alt="Image ${i}">`); // 템플릿 리터럴로 수정
 }
 const $images2 = $container2.find('img');
 $images2.eq(0).show();
